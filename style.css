@@ -254,7 +254,7 @@ nav .fa-solid{
 /* -----------------------css for small screen------------------------------- */
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(/mobile1.jpg);
+        background-image: url(/image.png);
     }
     .header-text{
         margin-top: 100%;
