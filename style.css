@@ -68,7 +68,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h2 span{
-    color: black;
+    color: #00FFFF;
 }
 
 /* ------------about-------------------------------------------------- */
